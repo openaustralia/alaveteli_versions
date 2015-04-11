@@ -1,24 +1,27 @@
-# This is a template for a Ruby scraper on Morph (https://morph.io)
-# including some code snippets below that you should find helpful
+require "scraperwiki"
+require "mechanize"
 
-# require 'scraperwiki'
-# require 'mechanize'
-#
-# agent = Mechanize.new
-#
-# # Read in a page
-# page = agent.get("http://foo.com")
-#
-# # Find somehing on the page using css selectors
-# p page.at('div.content')
-#
-# # Write out to the sqlite database using scraperwiki library
-# ScraperWiki.save_sqlite(["name"], {"name" => "susan", "occupation" => "software developer"})
-#
-# # An arbitrary query against the database
-# ScraperWiki.select("* from data where 'name'='peter'")
+agent = Mechanize.new
 
-# You don't have to do things with the Mechanize or ScraperWiki libraries. You can use whatever gems are installed
-# on Morph for Ruby (https://github.com/openaustralia/morph-docker-ruby/blob/master/Gemfile) and all that matters
-# is that your final data is written to an Sqlite database called data.sqlite in the current working directory which
-# has at least a table called data.
+puts "Discovering deployments..."
+page = agent.get("http://alaveteli.org/deployments/")
+
+deployments = page.search(".deployments__unit--major,.deployments__unit--minor").collect do |div|
+  url = div.at(".deployment__link").inner_text.strip
+  url += "/" if url[-1] != "/"
+
+  {name: div.at(".deployment__title").inner_text, url: url, version_url: url + "version.json"}
+end
+
+deployments.each do |deployment|
+  puts "Getting version information for #{deployment[:url]}..."
+  begin
+    record = JSON.parse(agent.get(deployment[:version_url]).body)
+  rescue Mechanize::ResponseCodeError => e
+    record = {error: e.to_s}
+  end
+
+  ScraperWiki.save_sqlite([:name], record.merge(deployment))
+end
+
+puts "Done."
