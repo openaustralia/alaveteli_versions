@@ -1,6 +1,6 @@
 require "scraperwiki"
 require "mechanize"
-require "JSON"
+require "json"
 
 agent = Mechanize.new
 
