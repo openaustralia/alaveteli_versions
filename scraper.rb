@@ -17,7 +17,13 @@ end
 deployments.each do |deployment|
   puts "Getting version information for #{deployment[:url]}..."
   begin
-    record = JSON.parse(agent.get(deployment[:version_url]).body)
+    page = agent.get(deployment[:version_url])
+
+    if page.response["content-type"].include? "json"
+      record = JSON.parse(page.body)
+    else
+      record = {error: "Didn't get JSON from API."}
+    end
   rescue Mechanize::ResponseCodeError => e
     record = {error: e.to_s}
   end
