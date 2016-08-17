@@ -24,7 +24,7 @@ deployments.each do |deployment|
     else
       record = {error: "Didn't get JSON from API."}
     end
-  rescue Mechanize::ResponseCodeError, SocketError => e
+  rescue Mechanize::ResponseCodeError, SocketError, OpenSSL::SSL::SSLError => e
     record = {error: e.to_s}
   end
 
