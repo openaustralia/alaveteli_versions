@@ -28,7 +28,9 @@ deployments.each do |deployment|
     record = {error: e.to_s}
   end
 
-  ScraperWiki.save_sqlite([:name], record.merge(deployment))
+  record.merge!(deployment).merge!(date_checked: Date.today)
+
+  ScraperWiki.save_sqlite([:name], record)
 end
 
 puts "Done."
