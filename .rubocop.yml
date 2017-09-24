@@ -1,0 +1,6 @@
+Lint/RescueWithoutErrorClass:
+  Exclude:
+    - scraper.rb
+Metrics/LineLength:
+  Exclude:
+    - Gemfile
