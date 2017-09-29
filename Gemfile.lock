@@ -81,6 +81,7 @@ DEPENDENCIES
   pry
   pry-rescue
   pry-stack_explorer
+  rake
   rubocop
   scraperwiki!
 
