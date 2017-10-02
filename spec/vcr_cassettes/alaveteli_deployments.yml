@@ -1,0 +1,2056 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://alaveteli.org/deployments/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - alaveteli.org
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - GitHub.com
+      Date:
+      - Mon, 02 Oct 2017 00:10:23 GMT
+      Content-Type:
+      - text/html; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Last-Modified:
+      - Thu, 28 Sep 2017 10:21:39 GMT
+      Access-Control-Allow-Origin:
+      - "*"
+      Expires:
+      - Mon, 02 Oct 2017 00:20:23 GMT
+      Cache-Control:
+      - max-age=600
+      Content-Encoding:
+      - gzip
+      X-Github-Request-Id:
+      - A2B3:327F:A7C8BA5:F7ED56E:59D183EF
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+        w+1uAAA=
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:10:21 GMT
+- request:
+    method: get
+    uri: https://www.whatdotheyknow.com/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - www.whatdotheyknow.com
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Mon, 02 Oct 2017 00:10:59 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Content-Length:
+      - '411'
+      Connection:
+      - keep-alive
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Vary:
+      - Cookie
+      Strict-Transport-Security:
+      - max-age=631152000; includeSubdomains
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      X-Request-Id:
+      - 58f5c850-698b-44bc-96af-93e139b1cf0a
+      Etag:
+      - W/"2ae12c3be9b38a92e80fec01b9d08138"
+      X-Frame-Options:
+      - sameorigin
+      X-Content-Type-Options:
+      - nosniff
+      Status:
+      - 200 OK
+      X-Url:
+      - "/version.json"
+      Accept-Ranges:
+      - bytes
+      Age:
+      - '0'
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"661c25661dc37a5e538d07cc2a482049e38c9186","alaveteli_version":"0.29.0.0","ruby_version":"2.3.5","visible_public_body_count":19376,"visible_request_count":428642,"confirmed_user_count":114211,"visible_comment_count":75268,"track_thing_count":95400,"widget_vote_count":0,"public_body_change_request_count":2625,"request_classification_count":57565,"visible_followup_message_count":258249}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:10:57 GMT
+- request:
+    method: get
+    uri: http://kimittud.atlatszo.hu/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - kimittud.atlatszo.hu
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 301
+      message: Moved Permanently
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Mon, 02 Oct 2017 00:12:18 GMT
+      Content-Type:
+      - text/html
+      Content-Length:
+      - '178'
+      Connection:
+      - keep-alive
+      Location:
+      - https://kimittud.atlatszo.hu/version.json
+    body:
+      encoding: UTF-8
+      string: "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body
+        bgcolor=\"white\">\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:10:58 GMT
+- request:
+    method: get
+    uri: https://kimittud.atlatszo.hu/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - kimittud.atlatszo.hu
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Mon, 02 Oct 2017 00:12:20 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Cookie
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - '"fdfb3e133068881b7b3101ec6dba5e01"'
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      X-Request-Id:
+      - 7523d962e64237c603aae32512a85f63
+      X-Runtime:
+      - '0.103386'
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - sameorigin
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      Strict-Transport-Security:
+      - max-age=15768000
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"b8a78e0ae8ecee974fdf91db08aa42e6579591c0","alaveteli_version":"0.25.0.4","ruby_version":"1.9.3","visible_public_body_count":5122,"visible_request_count":9699,"confirmed_user_count":2394,"visible_comment_count":980,"track_thing_count":894,"widget_vote_count":0,"public_body_change_request_count":73,"request_classification_count":74,"visible_followup_message_count":4550}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:11:00 GMT
+- request:
+    method: get
+    uri: https://fyi.org.nz/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - fyi.org.nz
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 02 Oct 2017 00:08:15 GMT
+      Etag:
+      - W/"f346264cda6e265d52f474f97ac6b652"
+      Server:
+      - nginx
+      Set-Cookie:
+      - ''
+      Status:
+      - 200 OK
+      Strict-Transport-Security:
+      - max-age=631152000; includeSubdomains
+      Vary:
+      - Cookie
+      X-Content-Type-Options:
+      - nosniff
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+      - sameorigin
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Request-Id:
+      - 31ab56230883d28bc608af851bf5aa93
+      X-Runtime:
+      - '0.048710'
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      X-Xss-Protection:
+      - '1'
+      Content-Length:
+      - '220'
+      Connection:
+      - keep-alive
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAAA12Q247DIAxE/4VnFIUkRWx/xiLESa0l0HJJVVX770sq0dvr
+        HM947DvTVm+Y0BIslMD4daXEjozxN7JhiORdkdumGxrRiIJDHm/wIl3TP+SN
+        Io0W4ZxHSwZGP91KanYltG8PkrM6EPCSMe4rH1AOQnBmvJsprDhBjhgq67v2
+        zbh3RPc0CiV/OEtBm19IJ3JLdSklD5xdaVowweYTVtBy9tHupN2C8NVH7Cuf
+        mtUx0kxGp/KHmiPEMLzumb21/prPsGKMugTWq5VUf/8U7LCtaAEAAA==
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:11:00 GMT
+- request:
+    method: get
+    uri: http://www.asktheeu.org/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - www.asktheeu.org
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 301
+      message: Moved Permanently
+    headers:
+      Location:
+      - https://www.asktheeu.org/version.json
+      Content-Type:
+      - text/html; charset=iso-8859-1
+      X-Url:
+      - "/version.json"
+      Content-Length:
+      - '245'
+      Accept-Ranges:
+      - bytes
+      Date:
+      - Mon, 02 Oct 2017 00:11:03 GMT
+      Age:
+      - '0'
+      Connection:
+      - keep-alive
+    body:
+      encoding: UTF-8
+      string: |
+        <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+        <html><head>
+        <title>301 Moved Permanently</title>
+        </head><body>
+        <h1>Moved Permanently</h1>
+        <p>The document has moved <a href="https://www.asktheeu.org/version.json">here</a>.</p>
+        </body></html>
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:11:01 GMT
+- request:
+    method: get
+    uri: https://www.asktheeu.org/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - www.asktheeu.org
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Mon, 02 Oct 2017 00:11:06 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Content-Length:
+      - '398'
+      Connection:
+      - keep-alive
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Vary:
+      - Cookie
+      Strict-Transport-Security:
+      - max-age=631152000; includeSubdomains
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      X-Request-Id:
+      - ca374f5d722c28157de64cb7f0563441
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - '"81f480a60640e96a820c8fec9e77b96e"'
+      X-Frame-Options:
+      - sameorigin
+      X-Content-Type-Options:
+      - nosniff
+      Status:
+      - 200 OK
+      X-Url:
+      - "/version.json"
+      Accept-Ranges:
+      - bytes
+      Age:
+      - '0'
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"cb25d59791d4f15d6afd45b617afbe3dd8ac9410","alaveteli_version":"0.25.0.24","ruby_version":"1.9.3","visible_public_body_count":136,"visible_request_count":4430,"confirmed_user_count":2684,"visible_comment_count":754,"track_thing_count":1543,"widget_vote_count":320,"public_body_change_request_count":2,"request_classification_count":193,"visible_followup_message_count":4636}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:11:05 GMT
+- request:
+    method: get
+    uri: https://dostup.pravda.com.ua/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - dostup.pravda.com.ua
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Mon, 02 Oct 2017 00:11:14 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      - Cookie
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      X-Request-Id:
+      - b41705da63aaa5c87246c8372dbfd545
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - W/"81148ecd4a656b2a51c57e4607fc645e"
+      X-Runtime:
+      - '0.118776'
+      X-Frame-Options:
+      - sameorigin
+      X-Content-Type-Options:
+      - nosniff
+      X-Powered-By:
+      - Phusion Passenger 5.1.5
+      Status:
+      - 200 OK
+      Content-Encoding:
+      - gzip
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAAA2WP226EIBCG34VrYwCJSl+GcBjdSRG2HNxsmr57aVJdm97O
+        N//pk2ivdyjgUa1YlI3bhoW8EWmocKOcloFZJsBaPUgJxsyUcQGjZTALx7gj
+        3cVhh5QxhianPZ961tOGUzXPC+G/5x0zGg/qXo1Hq0x0z5ZeQwtngonXQ4KP
+        CrkckI+Mjx2xMSyYNnCqZkgHnMeBvZQ/YyCcSsnmjpSk7bsqNwzr6TjRZvhA
+        t0JReyxwANqRP+1uOqz/+7SFx8XrnHFBq0vbej7Ml0pL9D4+6l1tkLNezygu
+        2fT1Df1tShSNAQAA
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:11:06 GMT
+- request:
+    method: get
+    uri: http://www.infoprovsechny.cz/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - www.infoprovsechny.cz
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - Apache/2.2.22 (Debian)
+      X-Ua-Compatible:
+      - chrome=1
+      Vary:
+      - Cookie
+      Etag:
+      - '"1b8e2a06bdb5c7186311b9c7443de40f"'
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      X-Request-Id:
+      - bc16e15d-b591-43c5-905a-00fe6aa3f451
+      X-Runtime:
+      - '0.892166'
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - sameorigin
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      X-Powered-By:
+      - Phusion Passenger 4.0.59
+      Status:
+      - 200 OK
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Url:
+      - "/version.json"
+      Content-Length:
+      - '395'
+      Accept-Ranges:
+      - bytes
+      Date:
+      - Mon, 02 Oct 2017 00:11:10 GMT
+      X-Varnish:
+      - '1066295289'
+      Age:
+      - '0'
+      Via:
+      - 1.1 varnish
+      Connection:
+      - keep-alive
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"c6a33a16db926c269918670f04351612e0dc1883","alaveteli_version":"0.28.0.5","ruby_version":"1.9.3","visible_public_body_count":11952,"visible_request_count":6706,"confirmed_user_count":839,"visible_comment_count":303,"track_thing_count":243,"widget_vote_count":0,"public_body_change_request_count":53,"request_classification_count":76,"visible_followup_message_count":1502}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:11:08 GMT
+- request:
+    method: get
+    uri: http://imamopravoznati.org/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - imamopravoznati.org
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 500
+      message: Internal Server Error
+    headers:
+      Date:
+      - Mon, 02 Oct 2017 00:11:11 GMT
+      Content-Type:
+      - text/html; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Set-Cookie:
+      - __cfduid=d603c9770649b5556fef2554813f0f87d1506903070; expires=Tue, 02-Oct-18
+        00:11:10 GMT; path=/; domain=.imamopravoznati.org; HttpOnly
+      X-Request-Id:
+      - ba847edbcad525e82634d1dd5d2c6e5c
+      X-Runtime:
+      - '0.170508'
+      Server:
+      - cloudflare-nginx
+      Cf-Ray:
+      - 3a737160b793774e-LAX
+    body:
+      encoding: UTF-8
+      string: ''
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:11:09 GMT
+- request:
+    method: get
+    uri: https://www.righttoknow.org.au/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - www.righttoknow.org.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Mon, 02 Oct 2017 00:11:11 GMT
+      Server:
+      - Apache/2.2.22 (Ubuntu)
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Vary:
+      - Cookie
+      Strict-Transport-Security:
+      - max-age=631152000; includeSubdomains
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      X-Request-Id:
+      - a08d688d23419b26fcd04771677ce081
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - '"6a0fc87a115e0b332811edf0454d7038"'
+      X-Runtime:
+      - '0.098339'
+      X-Frame-Options:
+      - sameorigin
+      X-Content-Type-Options:
+      - nosniff
+      X-Powered-By:
+      - Phusion Passenger 5.1.2
+      Status:
+      - 200 OK
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Url:
+      - "/version.json"
+      Content-Length:
+      - '400'
+      Accept-Ranges:
+      - bytes
+      X-Varnish:
+      - '1255410476'
+      Age:
+      - '0'
+      Via:
+      - 1.1 varnish
+      Keep-Alive:
+      - timeout=15, max=100
+      Connection:
+      - Keep-Alive
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"16c71ea7f300e45133f0f05387924a5eb00df7a5","alaveteli_version":"0.25.0.3","ruby_version":"2.0.0","visible_public_body_count":2667,"visible_request_count":3709,"confirmed_user_count":2440,"visible_comment_count":1895,"track_thing_count":1818,"widget_vote_count":0,"public_body_change_request_count":160,"request_classification_count":1841,"visible_followup_message_count":3895}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:11:10 GMT
+- request:
+    method: get
+    uri: http://www.quesabes.org/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - www.quesabes.org
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Mon, 02 Oct 2017 00:12:12 GMT
+      Server:
+      - Apache/2.2.22 (Debian)
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Vary:
+      - Cookie
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      X-Request-Id:
+      - 2e227679b903c24360a89c811f96374f
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - '"6eedfba35edbbbb98d8395e5a0bf6282"'
+      X-Frame-Options:
+      - sameorigin
+      X-Runtime:
+      - '0.035285'
+      X-Content-Type-Options:
+      - nosniff
+      X-Powered-By:
+      - Phusion Passenger 5.0.25
+      Status:
+      - 200 OK
+      Keep-Alive:
+      - timeout=5, max=100
+      Connection:
+      - Keep-Alive
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"2cd766f33081d9b159305f9ffd511344ea10e702","alaveteli_version":"0.23.2.2","ruby_version":"2.0.0","visible_public_body_count":183,"visible_request_count":499,"confirmed_user_count":569,"visible_comment_count":174,"track_thing_count":317,"widget_vote_count":0,"public_body_change_request_count":66,"request_classification_count":59,"visible_followup_message_count":269}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:10 GMT
+- request:
+    method: get
+    uri: http://nuvasuparati.info/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - nuvasuparati.info
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 301
+      message: https://nuvasuparati.info/version.json
+    headers:
+      Server:
+      - Varnish
+      Location:
+      - https://nuvasuparati.info/version.json
+      Accept-Ranges:
+      - bytes
+      Date:
+      - Mon, 02 Oct 2017 00:12:12 GMT
+      X-Varnish:
+      - '1627141436'
+      Age:
+      - '0'
+      Via:
+      - 1.1 varnish
+      Connection:
+      - close
+    body:
+      encoding: UTF-8
+      string: ''
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:11 GMT
+- request:
+    method: get
+    uri: https://nuvasuparati.info/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - nuvasuparati.info
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Status:
+      - 200 OK
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Vary:
+      - Cookie
+      Strict-Transport-Security:
+      - max-age=31536000
+      - max-age=631152000; includeSubdomains
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      X-Request-Id:
+      - 5684c317719bfec3b12a50953858305d
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - '"7a71c4baa2900f506e08115fcb3f85ed"'
+      X-Frame-Options:
+      - sameorigin
+      X-Runtime:
+      - '0.026394'
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 02 Oct 2017 00:12:14 GMT
+      X-Powered-By:
+      - Phusion Passenger 5.0.30
+      Server:
+      - nginx/1.10.1 + Phusion Passenger 5.0.30
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"bed3777ff76ec97c411d08087dcbfed7cc21eb65","alaveteli_version":"0.24.1.10","ruby_version":"2.0.0","visible_public_body_count":591,"visible_request_count":307,"confirmed_user_count":169,"visible_comment_count":15,"track_thing_count":60,"widget_vote_count":0,"public_body_change_request_count":2,"request_classification_count":24,"visible_followup_message_count":75}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:12 GMT
+- request:
+    method: get
+    uri: http://www.pravodaznam.ba/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - www.pravodaznam.ba
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 404
+      message: Not Found
+    headers:
+      Content-Type:
+      - text/html; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Status:
+      - '404'
+      X-Powered-By:
+      - Phusion Passenger (mod_rails/mod_rack) 3.0.11
+      Cache-Control:
+      - no-cache
+      Server:
+      - nginx/1.0.10 + Phusion Passenger 3.0.11 (mod_rails/mod_rack)
+      Content-Encoding:
+      - gzip
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:13 GMT
+- request:
+    method: get
+    uri: http://askdata.org.il/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - askdata.org.il
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 301
+      message: Moved Permanently
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Mon, 02 Oct 2017 00:12:18 GMT
+      Content-Type:
+      - text/html
+      Content-Length:
+      - '178'
+      Connection:
+      - keep-alive
+      Location:
+      - http://www.askdata.org.il/version.json
+    body:
+      encoding: UTF-8
+      string: "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body
+        bgcolor=\"white\">\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:14 GMT
+- request:
+    method: get
+    uri: http://www.askdata.org.il/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - www.askdata.org.il
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 404
+      message: Not Found
+    headers:
+      Server:
+      - Apache/2.2.16 (Debian)
+      X-Powered-By:
+      - Phusion Passenger (mod_rails/mod_rack) 3.0.21
+      Cache-Control:
+      - no-cache
+      Status:
+      - '404'
+      Vary:
+      - Accept-Encoding
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - text/html; charset=utf-8
+      X-Url:
+      - "/version.json"
+      Accept-Ranges:
+      - bytes
+      Date:
+      - Mon, 02 Oct 2017 00:12:19 GMT
+      X-Varnish:
+      - '1261899644'
+      Age:
+      - '0'
+      Via:
+      - 1.1 varnish
+      Connection:
+      - keep-alive
+      Set-Cookie:
+      - "___utmvaKluzRlY=btu\x01QQmU; path=/; Max-Age=900"
+      - '___utmvbKluzRlY=KZR XDVOBalQ: StO; path=/; Max-Age=900'
+      - ___utmvmKluzRlY=JVmeQVxSYif; path=/; Max-Age=900
+      - incap_ses_436_275959=7kGjUyIiPyZjleUJQfwMBmKE0VkAAAAAS7yG8OqkUD+6htsDNhdatA==;
+        path=/; Domain=.askdata.org.il
+      - visid_incap_275959=lWinCgl/TXiAIOxj5Nc612KE0VkAAAAAQUIPAAAAAADAGM42JG6VcfowT6u9YBDR;
+        expires=Mon, 01 Oct 2018 12:31:17 GMT; path=/; Domain=.askdata.org.il
+      X-Iinfo:
+      - 9-115470332-115470335 NNNN CT(224 -1 0) RT(1506903135530 19) q(0 0 2 -1) r(29
+        29) U11
+      X-Cdn:
+      - Incapsula
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAA/41U207bQBB9z1dMqZQEKfGF0Fxsx1WgPFBVPFAkVCEUbbzj
+        eMH2urvrXIr4945jciH0oQ+2vHNmzsyZmXWQmCyFVZbmenySGFN4tr1cLq1l
+        z5Jqbruj0cheVT4nYSNIkPGwARAYYVIMJ5ERModLmRsl0xSVB1erCIuNNWLl
+        PDGBXbtWQdqs6y+AmeRreIEZi57nSpY570YylRT/OY5jH7aHXq/nw2tjF9KB
+        ogMy7UBJj+HwskEAYqqgG7NMpGsPFqg4y1kHmBKM/BJMF2hERBbNct3VqETs
+        H0Zq8Qc9Ori9YrUFUpFjN0FBGjxwh1vgrZhC4S75P0Qg4panYJyLfE4czp78
+        IKvrHlEz6suWx3GcSv/G7C2EFgb5Adzv9/dwIkn4Abhp5Ifa9pSB/TaPwK7H
+        GlQdDhs0ZTe8laWhquFKKanIwSW4CAOSHd5IIEKDkDETJaih+buUxrcpu6a5
+        W09a5rUJlsIk8EKVaTNuzo1fm6vtYvqZM8OqFbNEWts74HGZMZEf+B7hGZpE
+        8g3uzdGQpeKeVnmmhVT/mUWXsw+JyH2H75iGzmtgV5rpTY2h1uhIicKAWRc4
+        PjG4MvYTW7DaShfEtoNPD5ffJneTh0Y7LvPN/Wif0qosmIIpbWW6pk3UU4qA
+        MXAZlRnmxooUMoNXKVandqvma536jfchVpWX4lpHmVv+ETcpX+cReRpV4gdQ
+        qwpq2dPrPGKFLlM2vUUtSxXh15/3369//bifjM9GgwEf8sF53O/xQTyMkc+Q
+        Oe5wNmAud7406X9x1oxm4/PzQa/vjgajln+sEknQoUwa2ZtGfbG+Y/MbluFe
+        7YPz6B9HWwVT5H4jOVoip5trLjCWCtvvJXWO46h1r6dtets2PD5WO15noUnW
+        W047Tf+08C/RiWVw/gQAAA==
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:17 GMT
+- request:
+    method: get
+    uri: http://www.slobodenpristap.mk/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - www.slobodenpristap.mk
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Vary:
+      - Cookie
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      X-Request-Id:
+      - 60179776811e42919b9f51bc9cb711a8
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - '"ab6640127cc6766dab0b4ce46a1ce166"'
+      X-Frame-Options:
+      - sameorigin
+      X-Content-Type-Options:
+      - nosniff
+      Status:
+      - 200 OK
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Url:
+      - "/version.json"
+      Content-Length:
+      - '385'
+      Accept-Ranges:
+      - bytes
+      Date:
+      - Mon, 02 Oct 2017 00:12:20 GMT
+      Age:
+      - '0'
+      Connection:
+      - keep-alive
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"80db762937c28c9fc98ce4a297d2f462cbdf6807","alaveteli_version":"0.25.0.24","ruby_version":"1.9.3","visible_public_body_count":814,"visible_request_count":146,"confirmed_user_count":61,"visible_comment_count":7,"track_thing_count":7,"widget_vote_count":0,"public_body_change_request_count":65,"request_classification_count":2,"visible_followup_message_count":23}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:18 GMT
+- request:
+    method: get
+    uri: https://sobanukirwa.rw/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - sobanukirwa.rw
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Mon, 02 Oct 2017 00:12:22 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Content-Length:
+      - '389'
+      Connection:
+      - keep-alive
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Vary:
+      - Cookie
+      Strict-Transport-Security:
+      - max-age=631152000; includeSubdomains
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      X-Request-Id:
+      - 7db79865f4e48407591a97e48b9dee48
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - '"191a5cd6e449cb0825d343f7602fc71d"'
+      X-Frame-Options:
+      - sameorigin
+      X-Content-Type-Options:
+      - nosniff
+      Status:
+      - 200 OK
+      X-Url:
+      - "/version.json"
+      Accept-Ranges:
+      - bytes
+      Age:
+      - '0'
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"85087d4fa4b720d0ec5651ecc302cfe0bf3777b8","alaveteli_version":"0.22.4.9","ruby_version":"1.9.3","visible_public_body_count":616,"visible_request_count":156,"confirmed_user_count":427,"visible_comment_count":54,"track_thing_count":296,"widget_vote_count":3,"public_body_change_request_count":54,"request_classification_count":26,"visible_followup_message_count":40}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:20 GMT
+- request:
+    method: get
+    uri: https://chiedi.dirittodisapere.it/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - chiedi.dirittodisapere.it
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Mon, 02 Oct 2017 00:12:29 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Strict-Transport-Security:
+      - max-age=631152000; includeSubdomains
+      Vary:
+      - Cookie
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - '"333ea1f9ab7be151803f5de5d9d1a822"'
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      X-Request-Id:
+      - 048fea3841837a81252860394cf088d9
+      X-Runtime:
+      - '0.027817'
+      X-Content-Type-Options:
+      - nosniff
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"ee8c507c015fc5348506f179c16c07a52bd81f6d","alaveteli_version":"0.26.0.12","ruby_version":"2.1.5","visible_public_body_count":544,"visible_request_count":233,"confirmed_user_count":238,"visible_comment_count":24,"track_thing_count":99,"widget_vote_count":0,"public_body_change_request_count":110,"request_classification_count":44,"visible_followup_message_count":51}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:22 GMT
+- request:
+    method: get
+    uri: https://accessinfo.hk/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - accessinfo.hk
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Mon, 02 Oct 2017 00:12:25 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Set-Cookie:
+      - __cfduid=d567b0d208f723446ccf72a34e04cdda81506903145; expires=Tue, 02-Oct-18
+        00:12:25 GMT; path=/; domain=.accessinfo.hk; HttpOnly
+      Strict-Transport-Security:
+      - max-age=15768000
+      - max-age=631152000; includeSubdomains
+      Vary:
+      - Cookie
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - W/"31f0c11dcaa2c37e05bf08efee67b4dc"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      X-Request-Id:
+      - de894603a77edb17a971c7f80c2e82b7
+      X-Runtime:
+      - '0.067981'
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - sameorigin
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      Server:
+      - cloudflare-nginx
+      Cf-Ray:
+      - 3a7373326f5476d6-LAX
+      Content-Encoding:
+      - gzip
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAAA2SPS26EMBBE79JrCxmb4XcZqzEN04qxJ/4wGkW5e5QFMFG2
+        9bq6qr4AHe6UybFZORsbto0zjNDWuqGutaRu2M849AtNfSdlbbHRqmskoSKN
+        NxBvH3aKiYOHEWSlukpWAwiIZXq9kboaKg0Cdk48OTKPMjm2Zgrzy9hQfIax
+        7tTFI30WSvlkfSPABr9w3Gg2JVE8UKsv1+8O8qdLNQJyRPth8p39egUJePK8
+        UjZ7yHTIUsCfVnf06/8iWsApOUyJF7aYOfjjor/qLMG58CwPs1FKuJ5JtdLf
+        PwAAAP//AwAdAjpxgwEAAA==
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:24 GMT
+- request:
+    method: get
+    uri: http://askyourgov.ug/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - askyourgov.ug
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Vary:
+      - Cookie
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      X-Request-Id:
+      - dc2041f478d13e930396e65b82cadf9f
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - '"790fd3619f920875160c9095a5d625ce"'
+      X-Frame-Options:
+      - sameorigin
+      X-Content-Type-Options:
+      - nosniff
+      Status:
+      - 200 OK
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Url:
+      - "/version.json"
+      Content-Length:
+      - '394'
+      Accept-Ranges:
+      - bytes
+      Date:
+      - Mon, 02 Oct 2017 00:12:26 GMT
+      Age:
+      - '0'
+      Connection:
+      - keep-alive
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"7040f9f879de65523feebf423f7b649ca78625c3","alaveteli_version":"0.24.1.10","ruby_version":"1.9.3","visible_public_body_count":106,"visible_request_count":1171,"confirmed_user_count":1141,"visible_comment_count":10,"track_thing_count":361,"widget_vote_count":0,"public_body_change_request_count":126,"request_classification_count":89,"visible_followup_message_count":127}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:25 GMT
+- request:
+    method: get
+    uri: https://www.mimesbronn.no/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - www.mimesbronn.no
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Mon, 02 Oct 2017 00:12:28 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Strict-Transport-Security:
+      - max-age=15768000
+      - max-age=631152000; includeSubdomains
+      Vary:
+      - Cookie
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - '"834b163535173ceb3dc4f26884d6f6b5"'
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      X-Request-Id:
+      - 8eba67e64fe56f9c5c8f5220abe2f33d
+      X-Runtime:
+      - '0.049486'
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - sameorigin
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"f9ef5beea09f3be91ea010f090a2d40ff105ffd7","alaveteli_version":"0.27.0.2","ruby_version":"1.9.3","visible_public_body_count":3757,"visible_request_count":432,"confirmed_user_count":142,"visible_comment_count":228,"track_thing_count":111,"widget_vote_count":0,"public_body_change_request_count":8,"request_classification_count":44,"visible_followup_message_count":574}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:26 GMT
+- request:
+    method: get
+    uri: https://derechoapreguntar.org/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - derechoapreguntar.org
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Mon, 02 Oct 2017 00:12:30 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Content-Length:
+      - '385'
+      Connection:
+      - keep-alive
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Vary:
+      - Cookie
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      X-Request-Id:
+      - b8ed54cc0bf8bece21e84278fce8fa4d
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - '"e1cd4121d6a3e99e4734ce305028868d"'
+      X-Frame-Options:
+      - sameorigin
+      X-Content-Type-Options:
+      - nosniff
+      Status:
+      - 200 OK
+      X-Url:
+      - "/version.json"
+      Accept-Ranges:
+      - bytes
+      Age:
+      - '0'
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"85087d4fa4b720d0ec5651ecc302cfe0bf3777b8","alaveteli_version":"0.22.4.9","ruby_version":"1.9.3","visible_public_body_count":97,"visible_request_count":260,"confirmed_user_count":232,"visible_comment_count":6,"track_thing_count":85,"widget_vote_count":0,"public_body_change_request_count":0,"request_classification_count":22,"visible_followup_message_count":16}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:28 GMT
+- request:
+    method: get
+    uri: http://infolib.org.lr/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - infolib.org.lr
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Vary:
+      - Cookie
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      X-Request-Id:
+      - 0d29df57de0885dc8712cf9e9badc368
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - '"cf78cbc5ec260689f9ca252b5ef8dae6"'
+      X-Frame-Options:
+      - sameorigin
+      X-Content-Type-Options:
+      - nosniff
+      Status:
+      - 200 OK
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Url:
+      - "/version.json"
+      Content-Length:
+      - '384'
+      Accept-Ranges:
+      - bytes
+      Date:
+      - Mon, 02 Oct 2017 00:12:31 GMT
+      Age:
+      - '0'
+      Connection:
+      - keep-alive
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"80db762937c28c9fc98ce4a297d2f462cbdf6807","alaveteli_version":"0.25.0.24","ruby_version":"1.9.3","visible_public_body_count":45,"visible_request_count":102,"confirmed_user_count":123,"visible_comment_count":4,"track_thing_count":13,"widget_vote_count":0,"public_body_change_request_count":6,"request_classification_count":2,"visible_followup_message_count":5}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:29 GMT
+- request:
+    method: get
+    uri: https://transparencia.be/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - transparencia.be
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Mon, 02 Oct 2017 00:12:32 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Content-Length:
+      - '393'
+      Connection:
+      - keep-alive
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Vary:
+      - Cookie
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      X-Request-Id:
+      - 07d084bc-7a1b-4c90-a916-966c07f787a8
+      X-Ua-Compatible:
+      - chrome=1
+      Etag:
+      - '"d7c42625ffbc86bbbd634aebbd8cb72a"'
+      X-Frame-Options:
+      - sameorigin
+      X-Content-Type-Options:
+      - nosniff
+      Status:
+      - 200 OK
+      X-Url:
+      - "/version.json"
+      Accept-Ranges:
+      - bytes
+      Age:
+      - '0'
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"2514923ec3c9518646df75a9924efc2b417826e3","alaveteli_version":"0.28.0.12","ruby_version":"1.9.3","visible_public_body_count":1076,"visible_request_count":373,"confirmed_user_count":300,"visible_comment_count":27,"track_thing_count":195,"widget_vote_count":96,"public_body_change_request_count":48,"request_classification_count":34,"visible_followup_message_count":374}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:31 GMT
+- request:
+    method: get
+    uri: https://www.queremosdatos.co/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - www.queremosdatos.co
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Mon, 02 Oct 2017 00:12:34 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Content-Length:
+      - '385'
+      Connection:
+      - keep-alive
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Vary:
+      - Cookie
+      Strict-Transport-Security:
+      - max-age=631152000; includeSubdomains
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - '1'
+      X-Request-Id:
+      - d0ac21872bfbc1b87ee6670c1603e427
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - '"435a4f37996ced365e4a410f2ad81fae"'
+      X-Frame-Options:
+      - sameorigin
+      X-Content-Type-Options:
+      - nosniff
+      Status:
+      - 200 OK
+      X-Url:
+      - "/version.json"
+      Accept-Ranges:
+      - bytes
+      Age:
+      - '0'
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"80db762937c28c9fc98ce4a297d2f462cbdf6807","alaveteli_version":"0.25.0.24","ruby_version":"1.9.3","visible_public_body_count":6363,"visible_request_count":283,"confirmed_user_count":69,"visible_comment_count":1,"track_thing_count":6,"widget_vote_count":0,"public_body_change_request_count":2,"request_classification_count":1,"visible_followup_message_count":41}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:32 GMT
+- request:
+    method: get
+    uri: https://fragastaten.se/version.json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.3 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - fragastaten.se
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Mon, 02 Oct 2017 00:12:36 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Strict-Transport-Security:
+      - max-age=631152000; includeSubdomains
+      X-Frame-Options:
+      - sameorigin
+      X-Xss-Protection:
+      - '1'
+      X-Content-Type-Options:
+      - nosniff
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      Vary:
+      - Cookie
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Etag:
+      - '"a088427295ea88f9295a1b009c1875a2"'
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      X-Request-Id:
+      - d8b8a3454c2d025abef719be263da28b
+      X-Runtime:
+      - '0.134810'
+    body:
+      encoding: UTF-8
+      string: '{"alaveteli_git_commit":"281fc8439ac1ebd803d8c64f32a76325fc70e88c","alaveteli_version":"0.23.0.3","ruby_version":"1.9.3","visible_public_body_count":609,"visible_request_count":1226,"confirmed_user_count":138,"visible_comment_count":10,"track_thing_count":10,"widget_vote_count":0,"public_body_change_request_count":1,"request_classification_count":31,"visible_followup_message_count":496}'
+    http_version: 
+  recorded_at: Mon, 02 Oct 2017 00:12:34 GMT
+recorded_with: VCR 3.0.3
