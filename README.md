@@ -12,7 +12,7 @@ cd alaveteli_versions
 bundle
 ```
 
-Then audit the scraper style with:
+Then run regression tests and audit the scraper style with:
 
 ``` bash
 bundle exec rake
