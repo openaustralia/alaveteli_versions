@@ -44,7 +44,7 @@ def get_version_information(deployment)
     deployment[:error] = "Didn't get JSON from API."
   end
 rescue => e
-  deployment.merge!(error: "#{e.class}: #{e.message}")
+  deployment.merge!(error: "#{e.class}: #{e.message}", date_checked: Date.today)
 end
 
 def main
